@@ -8,6 +8,8 @@
 
 4. Hindari penggunaan * . Pilih kolom yang akan digunakan saja.
 
+5. Bisa juga menggunakan cache seperti memcached atau redis.
+
 Berikut perbedaan response ketika menggunakan index dan tidak dengan bahasa pemrograman php (flight php):
 
 ```
