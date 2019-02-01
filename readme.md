@@ -31,6 +31,6 @@ no indexing -> 1655 ms
 indexing -> 32 ms
 ```
 
-untuk mencoba app silahkan import users.csv.
+untuk mencoba app silahkan import file users.json yang berisi 1 juta record.
 
 api php ada didalam folder flight dan api go ada didalam folder rest-api.
