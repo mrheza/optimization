@@ -30,3 +30,7 @@ select email from users a where name like 'rhe%'
 no indexing -> 1655 ms
 indexing -> 32 ms
 ```
+
+untuk mencoba app silahkan import users.csv.
+
+api php ada didalam folder flight dan api go ada didalam folder rest-api.
